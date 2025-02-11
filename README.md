@@ -1,4 +1,4 @@
-<img width="114" alt="image" src="https://github.com/user-attachments/assets/64004007-f60a-4476-bd82-ad5979fdb9f1" /># ສາລະບານ
+# ສາລະບານ
 
 - ບົດນຳ
 
