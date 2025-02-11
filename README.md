@@ -53,7 +53,10 @@
 
 
 ### 4\. ໂຄ້ດໂປຣແກຣມ Blink
-<img width="253" alt="image" src="https://github.com/user-attachments/assets/2c5bac4b-cd9a-41e9-a295-9ece14143117" />
+<img width="253" alt="image" src="https://github.com/user-attachments/assets/055958cb-234f-4fdb-9f76-aa4b98f2b1b1" />
+
+
+
 
 ### 5\. ຫຼັກການເຮັດວຽກ
 
@@ -85,7 +88,8 @@ LED ແມ່ນເຊື່ອມຕໍ່ກັບ pin output ໂດຍຜ່�
 <img width="145" alt="image" src="https://github.com/user-attachments/assets/a8dec270-9cea-4105-848b-831533dfa73d" />
 
 ### 4\. ໂຄ້ດໂປຣແກຣມ Blink
-<img width="239" alt="image" src="https://github.com/user-attachments/assets/31b141b5-cd47-42d7-9bc7-b56575303685" />
+<img width="267" alt="image" src="https://github.com/user-attachments/assets/7c872a9f-5b48-4e28-a04a-5dd395765664" />
+
 
 ### 5\. ຫຼັກການເຮັດວຽກຂອງການທົດສອບ
 
@@ -117,8 +121,8 @@ LED ແມ່ນເຊື່ອມຕໍ່ກັບ pin output ໂດຍຜ່�
 - ປຸ່ມກົດແມ່ນເຊື່ອມຕໍ່ກັບ pin 2 (ການປ້ອນຂໍ້ມູນດິຈິຕອນ) ຂອງ **Arduino.**
 - ຂາຫນຶ່ງຂອງປຸ່ມກົດແມ່ນເຊື່ອມຕໍ່ກັບ GND ແລະ ຂາອື່ນແມ່ນເຊື່ອມຕໍ່ກັບ pin 2.
 - **LED** ແມ່ນເຊື່ອມຕໍ່ກັບ pin **LED** ໃນຕົວ (ຫຼື pin ດິຈິຕອນອື່ນ) ຜ່ານຕົວຕ້ານທານ. ຂາລົບແມ່ນເຊື່ອມຕໍ່ກັບ GND.
-<img width="114" alt="image" src="https://github.com/user-attachments/assets/7dab784b-c562-4866-b4b2-dfd7a1a65c1b" />
-<img width="267" alt="image" src="https://github.com/user-attachments/assets/8155c3a7-11f0-45dc-9633-ac0a6c6c5336" />
+<img width="239" alt="image" src="https://github.com/user-attachments/assets/02721fa6-7764-4860-bc8f-e12c7c3266d7" />
+<img width="114" alt="image" src="https://github.com/user-attachments/assets/867c7dae-1ed7-4f85-9a8f-4b6810c8c0df" />
 
 ### 4\. ໂຄ້ດ
 ```
